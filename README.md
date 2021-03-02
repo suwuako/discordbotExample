@@ -1,2 +1,2 @@
 # discordbotExample
-example
+brief example of a discord bot for demonstration 
