@@ -7,5 +7,3 @@ GPL-3.0 License
 ## Examples
 /discbot.py
 
-## Contributors
-megumin00
